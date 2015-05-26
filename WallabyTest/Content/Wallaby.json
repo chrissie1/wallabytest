@@ -1,0 +1,11 @@
+﻿{
+    "files": [
+      "Css/*.css",
+      { "pattern": "Scripts/*.js", "instrument": false },
+      "Scripts/*.js"
+    ],
+    "tests": [
+      "Tests/*Tests.js"
+    ],
+    "testFramework": "qunit@1.18.0"
+}
